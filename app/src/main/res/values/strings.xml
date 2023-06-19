@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Garage</string>
+
+    <string name="specification">Specification</string>
+    <string name="description">Description</string>
+
+</resources>
